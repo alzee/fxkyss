@@ -1,5 +1,5 @@
 if(document.querySelector('#map')){
-    let coord = [110.749676, 32.070696];
+    let coord = [110.749462, 32.071229];
 
     let map = new AMap.Map('map', {
         resizeEnable: true,
